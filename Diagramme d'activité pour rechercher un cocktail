@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T17:17:32.649Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="RSMQ8pMKN7N1lq4QMMUb" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-05T17:19:14.409Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="7SIPSQ0F77Ar5QbDtHdV" version="13.7.7" type="github">
   <diagram id="7kaFY4Va8JTyyUi32X58" name="Page-1">
     <mxGraphModel dx="493" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -230,8 +230,8 @@
         <mxCell id="urszncvZRp8f6UN26-ba-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YKUlPoOkmrzTWK7SQseU-1" target="kJKvz6DXWtPmO5vYXPtP-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YKUlPoOkmrzTWK7SQseU-1" value="Entrer un autre filtre que le nom d&#39;un cocktail" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1780" y="160" width="120" height="40" as="geometry" />
+        <mxCell id="YKUlPoOkmrzTWK7SQseU-1" value="Entrer un autre filtre que le&lt;br&gt;nom d&#39;un cocktail" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1780" y="160" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
