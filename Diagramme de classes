@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-11T11:40:23.827Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="SpH6o2DISiY1gHbtdEBj" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-11T11:43:36.924Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="W4g9n3ZNsv0XDRksUJLr" version="13.7.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,7 +57,7 @@
           <mxGeometry y="160" width="160" height="8" as="geometry" />
         </mxCell>
         <mxCell id="9QgLQ_4v5dFS6lOOKzKs-32" value="Cocktail" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="280" y="670" width="180" height="220" as="geometry">
+          <mxGeometry x="280" y="670" width="180" height="260" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -73,8 +73,8 @@
         <mxCell id="gcZBmJe6f0Qqzo_ZQLT2-11" value="ingredients : List &lt;Ingredient&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="9QgLQ_4v5dFS6lOOKzKs-32" vertex="1">
           <mxGeometry y="104" width="180" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="9QgLQ_4v5dFS6lOOKzKs-56" value="avis : List &lt;Avis&gt;&#xa;&#xa;typeVerre : string&#xa;&#xa;typeCocktail : string" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="9QgLQ_4v5dFS6lOOKzKs-32" vertex="1">
-          <mxGeometry y="130" width="180" height="80" as="geometry" />
+        <mxCell id="9QgLQ_4v5dFS6lOOKzKs-56" value="avis : List &lt;Avis&gt;&#xa;&#xa;typeVerre : string&#xa;&#xa;typeCocktail : string&#xa;&#xa;recette : string" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="9QgLQ_4v5dFS6lOOKzKs-32" vertex="1">
+          <mxGeometry y="130" width="180" height="130" as="geometry" />
         </mxCell>
         <mxCell id="9QgLQ_4v5dFS6lOOKzKs-43" value="Avis" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="460" y="420" width="160" height="100" as="geometry">
@@ -210,6 +210,12 @@
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--9" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--6" vertex="1">
           <mxGeometry y="240" width="160" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="cdNghJHOl_uY_Niab1A7-0" value="" style="endArrow=none;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="916" as="sourcePoint" />
+            <mxPoint x="460" y="916" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
